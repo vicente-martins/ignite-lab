@@ -1,14 +1,14 @@
-# Event Platform
+# Ignite Lab
 
-Ignite Lab | ReactJS - Rocketseat (20 - 24/06/2022).
+Ignite Lab | ReactJS - Rocketseat (06/20 - 06/24/2022).
 Mockups [Figma](https://www.figma.com/file/zx6sjXsgKp0BLJreGPfQxA/Plataforma-de-evento---Ignite-Lab-(Community)).
 
 ## Tools
 
-- Vite
-- ReactJS
-- Tailwind CSS
-- GraphCMS
+- [ViteJS](https://vitejs.dev/)
+- [ReactJS](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [GraphCMS](https://graphcms.com/)
 
 ## VS Code Extensions
 
@@ -19,5 +19,8 @@ Mockups [Figma](https://www.figma.com/file/zx6sjXsgKp0BLJreGPfQxA/Plataforma-de-
 ## Commands
 
 1. `npm create vite@latest`
+1.1. choose an app name
+1.2. app type: `react`
+1.3. use typescript: `react-ts`
 2. `npm run dev`
 3. `npx tailwindcss init -p`
