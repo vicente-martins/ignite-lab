@@ -9,6 +9,7 @@ Mockups [Figma](https://www.figma.com/file/zx6sjXsgKp0BLJreGPfQxA/Plataforma-de-
 - [ReactJS](https://reactjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [GraphCMS](https://graphcms.com/)
+- [GraphQL CodeGen](https://www.graphql-code-generator.com/)
 
 ## VS Code Extensions
 
@@ -19,8 +20,9 @@ Mockups [Figma](https://www.figma.com/file/zx6sjXsgKp0BLJreGPfQxA/Plataforma-de-
 ## Commands
 
 1. `npm create vite@latest`
-    1.1. choose an app name
-    1.2. app type: `react`
-    1.3. use typescript: `react-ts`
+    * choose an app name
+    * app type: `react`
+    * use typescript: `react-ts`
 2. `npm run dev`
 3. `npx tailwindcss init -p`
+4. `npm run codegen`
